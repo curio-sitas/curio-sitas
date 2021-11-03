@@ -29,6 +29,7 @@
 <br />
 
 <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curio-sitas&show_icons=true&hide_border=true" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=curio-sitas&show_icons=true&hide_border=true" />
 
 <br />
 <br />
@@ -44,7 +45,6 @@
 
 ---
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=curio-sitas&show_icons=true&hide_border=true" />
 
 
 [website]: https://curiositas.me

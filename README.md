@@ -1,6 +1,4 @@
-### Hi there, I'm Brian 🧑‍🎓
-
-[![Website](https://img.shields.io/website?label=curiositas.me&style=for-the-badge&url=https%3A%2F%2Fcuriositas.me)](https://curiositas.me)
+### Hi there, I'm Brian 🧑‍🎓 [![Website](https://img.shields.io/website?label=curiositas.me&style=for-the-badge&url=https%3A%2F%2Fcuriositas.me)](https://curiositas.me)
 
 > I'm a 🇫🇷 PhD student in photonics, technophile, crypto enthusiastic, and future researcher !!
 

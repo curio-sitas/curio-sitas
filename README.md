@@ -36,18 +36,3 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More ...](https://curiositas.me)
-
----
-
-
-
-[website]: https://curiositas.me
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/brian-sinquin/
-[orcid]: https://orcid.org/0000-0001-8278-394X
